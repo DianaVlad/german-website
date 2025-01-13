@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/german-website/static/css/main.ae42ac5f.css",
+    "main.js": "/german-website/static/js/main.601d032c.js",
+    "index.html": "/german-website/index.html",
+    "main.ae42ac5f.css.map": "/german-website/static/css/main.ae42ac5f.css.map",
+    "main.601d032c.js.map": "/german-website/static/js/main.601d032c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.601d032c.js"
+  ]
+}
